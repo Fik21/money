@@ -1,6 +1,2 @@
 We will do this later.
 Okay?
-<<<<<<< HEAD
-=======
-asd
->>>>>>> 55c7506ccf2b4e269dbed67c2a183a0e07e92106
