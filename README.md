@@ -1,2 +1,2 @@
 # money
-YAY
+The RP-economy-based custom GMOD gamemode.
