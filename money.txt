@@ -1,2 +1,8 @@
-We will do this later.
-Okay?
+"money"
+{
+  "base"         "base"
+  "title"         "Money RP"
+  "maps"          "^gm_"
+  "menusystem"    "1"
+  "workshopid"    ""
+}
